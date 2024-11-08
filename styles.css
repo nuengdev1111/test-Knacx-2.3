@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+    margin: 0;
+    font-family: monospace;
+}
+
+#pattern-container {
+    white-space: pre;
+    font-size: 10px;
+    line-height: 1.2;
+    color: #000;
+    text-align: left;
+}
